@@ -1,0 +1,59 @@
+.main {
+  display:flex;
+  margin:0px;
+}
+
+.card {
+  text-align: left;
+  width:300px;
+  height: 364px;
+  margin:20px;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    border-radius:5px;
+  
+}
+
+.descripcion {
+  width:300px;
+  height: 364px;
+  background-color: #ffffff;
+  display:flex;
+  justify-content: space-between;
+ 
+
+}
+
+.precio {
+  font-family: Avenir;
+  font-size: 16px;
+  font-weight: 900;
+  color: red;
+  opacity: 0.5;
+}
+
+.titulo {
+ 
+  font-family: Avenir-Roman;
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
+.comprar {
+  background-color: aquamarine;
+  color:#000;
+  width:70px;
+height:20px ;
+font-weight: bold;
+border-radius: 4px;
+border: none;
+}
+
+
+
+
+
